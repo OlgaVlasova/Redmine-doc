@@ -1,0 +1,4 @@
+Redmine-doc
+===========
+
+Инструкция redmine
